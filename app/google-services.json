@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "1037523169128",
+    "firebase_url": "https://jinzhiyao0927.firebaseio.com",
+    "project_id": "jinzhiyao0927",
+    "storage_bucket": "jinzhiyao0927.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037523169128:android:6086681b76ebe3db",
+        "android_client_info": {
+          "package_name": "edu.neu.madcourse.zhiyaojin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037523169128-r7f3ksgccsku5glf6ih7sv389lki1b4v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.neu.madcourse.zhiyaojin",
+            "certificate_hash": "a0bb2993c51ae14dc6d8d2f5a1f83c1a002ae31b"
+          }
+        },
+        {
+          "client_id": "1037523169128-lbi92j9n1e4r7gci5pgp30n4661nfjh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv8AwlSJGGqQYc0sLnYSW0Eh04Rq2O8oU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037523169128-lbi92j9n1e4r7gci5pgp30n4661nfjh5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037523169128:android:ab903df69f130e8c",
+        "android_client_info": {
+          "package_name": "edu.neu.madcourse.zhiyaojin.finalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037523169128-54lsrnrt53ghq59ohf9stl2ms4ltrun5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.neu.madcourse.zhiyaojin.finalproject",
+            "certificate_hash": "a0bb2993c51ae14dc6d8d2f5a1f83c1a002ae31b"
+          }
+        },
+        {
+          "client_id": "1037523169128-lbi92j9n1e4r7gci5pgp30n4661nfjh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv8AwlSJGGqQYc0sLnYSW0Eh04Rq2O8oU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037523169128-lbi92j9n1e4r7gci5pgp30n4661nfjh5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
